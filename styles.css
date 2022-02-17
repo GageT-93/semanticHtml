@@ -1,5 +1,24 @@
-.banner .welcome{
+.welcome{
     position: absolute;
-    left: 0px;
-    top: 30%
+    left: 1%;
+    bottom: 8%;
+    color: yellow;
   }
+.body{
+  background-color: pink;
+}
+.main-nav{
+  position: relative;
+  left: 5%;
+  top: 15px;
+  border: solid black;
+    width: 150px;
+    height: 100px;
+    color: blue;
+}
+.pictures{
+  position: relative;
+  max-width: 50%;
+  max-height: 50%;
+  border-radius: 20px;
+}
